@@ -1,2 +1,2 @@
-# estudos
-Projetos e códigos acadêmicos
+# Estudos
+Códigos acadêmicos
